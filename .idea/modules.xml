@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android Studio Workspace-AndroidCamera.iml" filepath="$PROJECT_DIR$/Android Studio Workspace-AndroidCamera.iml" group="AndroidCamera" />
       <module fileurl="file://$PROJECT_DIR$/AndroidCamera.iml" filepath="$PROJECT_DIR$/AndroidCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidCamera-app.iml" filepath="$PROJECT_DIR$/app/AndroidCamera-app.iml" group="AndroidCamera/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
